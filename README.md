@@ -15,12 +15,20 @@ This project is a simple and responsive "Contact Us" form built with html/css/js
 - HTML 5
 - CSS Custom properties
 
+### Links
+- Solution URL: [solution URL](https://github.com/sean15535/Contact_form)
+- live Site URL: [live site URL](https://sarimhasan.github.io/Contact-Form-Frontend-Mentor/)
+
+### Continued development
+I am not very well aware of the concepts of css grid and flex box which I will be learning soon.
+
 ### License
 - Distributed under the MIT License. See LICENSE for more information.
-
 
 ### Contact
 - Author: Alli Oluwaseun
 - Email: allioluwaseun@gmail.com
+- Twitter: [@allioluwaseun](https://twitter.com/AOluwaseun37257)
+- Linkedin: https://www.linkedin.com/in/oluwaseun-alli-aa4a812ba/
 - Live Link: https://github.com/yourusername/contact-us-form
 
